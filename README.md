@@ -1,2 +1,1 @@
-# ConnectFireBirdJAVA
-Conectar FireBird con Java
+# ConnectFireBird
